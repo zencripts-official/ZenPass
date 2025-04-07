@@ -1,4 +1,4 @@
-echo "# ZenPass
+# ZenPass
 
 **ZenPass** is a simple and secure password generator app developed by [Zencripts](https://github.com/Zencripts). It helps users create strong, random passwords to keep their online accounts safe.
 
@@ -57,4 +57,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**ZenPass** by [Zencripts](https://github.com/Zencripts) – Secure your digital world." > README.md
+**ZenPass** by [Zencripts](https://github.com/Zencripts) – Secure your digital world."
